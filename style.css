@@ -1,0 +1,46 @@
+.logoconfig {
+	width: 200px;
+	margin: 0 auto;
+	display: block;
+}
+
+.imgconfig {
+	margin: 0 auto;
+	display: block;
+}
+
+h1 {
+	font-family: Georgia, serif;
+	color: #480000;
+	padding: 20px;
+}
+
+h2 {
+	font-family: Georgia, serif;
+	color: #600000;
+}
+
+body {
+	margin: 0% 5% 3% 5%;
+	background-color: #FFF8DC;
+	border-right: 35px solid #380000;
+	border-left: 35px solid #380000;
+	padding: 10px 10px;
+}
+
+a[href^="http"] {
+	color:   	#1E90FF;
+	text-decoration: none;
+}
+
+a[href^="curiosidades"] {
+	color: #DAA520;
+	text-decoration: none;
+}
+
+div {
+	border-right: 35px solid black;
+	border-left: 35px solid black;
+	padding: 10px;
+}
+
